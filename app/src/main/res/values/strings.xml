@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActionBarSearchView</string>
+    <string-array name="array_searches">
+        <item>jojoba oil</item>
+        <item>witch hazel</item>
+        <item>Calculus Textbook</item>
+        <item>Morocco Argan Oil</item>
+
+    </string-array>
+</resources>
